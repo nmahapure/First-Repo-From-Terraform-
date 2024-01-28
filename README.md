@@ -9,7 +9,7 @@ helm charts for azure scoperetail deployment process
 ```helm upgrade --install yantra-oms yantra-oms --wait --timeout 300s --atomic```
 
 ## First install
-## Test 
+## Test Code 
 ## Create the acr secret    
 
 ```apiVersion: v1
